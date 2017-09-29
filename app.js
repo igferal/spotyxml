@@ -10,56 +10,77 @@ var rl = readline.createInterface({
     output: process.stdout
 });
 
-var builder = new xml2js.Builder();
+
+loging();
 
 
-// your application requests authorization
-var authOptions = {
-    url: 'https://accounts.spotify.com/api/token',
-    headers: {
-        'Authorization': 'Basic ' + (new Buffer(client_id + ':' + client_secret).toString('base64'))
-    },
-    form: {
-        grant_type: 'client_credentials'
-    },
-    json: true
-};
+function loging() {
 
-request.post(authOptions, function(error, response, body) {
-    if (!error && response.statusCode === 200) {
+    var authOptions = {
+        url: 'https://accounts.spotify.com/api/token',
+        headers: {
+            'Authorization': 'Basic ' + (new Buffer(client_id + ':' + client_secret).toString('base64'))
+        },
+        form: {
+            grant_type: 'client_credentials'
+        },
+        json: true
+    };
 
-        // use the access token to access the Spotify Web API
-        var token = body.access_token;
-        var options = {
-            url: 'https://api.spotify.com/v1/users/csharplover',
-            headers: {
-                'Authorization': 'Bearer ' + token
-            },
-            json: true
-        };
-        request.get(options, function(error, response, body) {
-            console.log("Autenticado");
+    rl.question("Nombre de usuario ", function(answer) {
+
+        request.post(authOptions, function(error, response, body) {
+
+            if (!error && response.statusCode === 200) {
+
+                // use the access token to access the Spotify Web API
+                var token = body.access_token;
+                var options = {
+                    url: 'https://api.spotify.com/v1/users/' + answer,
+                    headers: {
+                        'Authorization': 'Bearer ' + token
+                    },
+                    json: true
+                };
+                request.get(options, function(error, response, body) {
+                    if (!error && response.statusCode === 200) {
+
+                        console.log("Autenticado");
+                        getPlaylists(answer, token);
+                    } else {
+                        console.log("User not found");
+                        process.exit(1);
+
+                    }
+                });
+            } else {
+                console.log("Token app error please send me an email");
+                process.exit(1);
+
+            }
         });
-    }
-});
 
 
+    });
+}
 
-request.get(authOptions, function(error, response, body) {
 
-    if (!error && response.statusCode === 200) {
+function getPlaylists(user, token) {
 
-        // use the access token to access the Spotify Web API
-        var token = body.access_token;
-        var playlists = {
-            url: 'https://api.spotify.com/v1/users/csharplover/playlists/',
-            headers: {
-                'Authorization': 'Bearer ' + token
-            },
-            json: true
-        };
+    var playlists = {
+        url: 'https://api.spotify.com/v1/users/' + user + '/playlists/',
+        headers: {
+            'Authorization': 'Bearer ' + token
+        },
+        json: true
+    };
 
-        request.get(playlists, function(error, response, body) {
+    request.get(playlists, function(error, response, body) {
+
+        console.log(body);
+
+        if ((!error && response.statusCode === 200) || body.items.length <= 0) {
+
 
             var items = body.items;
 
@@ -68,37 +89,40 @@ request.get(authOptions, function(error, response, body) {
                 console.log(i + " - " + items[i].name + " - " + items[i].id);
             }
 
-            read(items, token);
+            read(items, token, user);
+        } else {
+            console.log("El usuario no tiene playlist asociadas");
+            process.exit(1);
+        }
+    })
+}
 
-        })
-    }
-});
 
-function read(items, token) {
+function read(items, token, user) {
 
 
 
     rl.question("Escoge una de las playlist (número)  ", function(answer) {
 
 
-        if (answer < 0 || answer > items.length) {
+        if (answer < 0 || answer > items.length || !isNumber(answer)) {
 
             answer = -1;
-            read(items, token);
+            read(items, token, user);
 
         } else {
 
             rl.close();
-            getTracks(answer, items, token);
+            getTracks(answer, items, token, user);
         }
 
     });
 
 }
 
-function getTracks(answer, items, token) {
+function getTracks(answer, items, token, user) {
 
-    var url = 'https://api.spotify.com/v1/users/csharplover/playlists/' + items[answer].id + "/tracks";
+    var url = 'https://api.spotify.com/v1/users/' + user + '/playlists/' + items[answer].id + "/tracks";
 
     var tracks = {
         url: url,
@@ -123,7 +147,12 @@ function getTracks(answer, items, token) {
 
 function parseXML(songs) {
 
+    var builder = new xml2js.Builder();
+
+
     var xml = builder.buildObject(songs);
+
+
 
     fs.writeFile("salida/playlist.xml", xml, function(err) {
         if (err) {
@@ -132,4 +161,8 @@ function parseXML(songs) {
         console.log("Xml listo");
     });
 
+}
+
+function isNumber(o) {
+    return !isNaN(o - 0) && o !== null && o !== "" && o !== false;
 }
