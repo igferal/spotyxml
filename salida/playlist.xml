@@ -1,1539 +1,1227 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
-  <added_at>2016-12-31T00:38:10Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
   <is_local>false</is_local>
   <track>
     <album>
-      <album_type>album</album_type>
+      <album_type>compilation</album_type>
       <artists>
         <external_urls>
-          <spotify>https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz</spotify>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
         </external_urls>
-        <href>https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz</href>
-        <id>63MQldklfxkjYDoUE4Tppz</id>
-        <name>M83</name>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
         <type>artist</type>
-        <uri>spotify:artist:63MQldklfxkjYDoUE4Tppz</uri>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
       </artists>
-      <available_markets>AD</available_markets>
-      <available_markets>AR</available_markets>
-      <available_markets>AT</available_markets>
-      <available_markets>BE</available_markets>
-      <available_markets>BG</available_markets>
-      <available_markets>BO</available_markets>
-      <available_markets>BR</available_markets>
-      <available_markets>CH</available_markets>
-      <available_markets>CL</available_markets>
-      <available_markets>CO</available_markets>
-      <available_markets>CR</available_markets>
-      <available_markets>CY</available_markets>
-      <available_markets>CZ</available_markets>
-      <available_markets>DE</available_markets>
-      <available_markets>DK</available_markets>
-      <available_markets>DO</available_markets>
-      <available_markets>EC</available_markets>
-      <available_markets>EE</available_markets>
-      <available_markets>ES</available_markets>
-      <available_markets>FI</available_markets>
-      <available_markets>FR</available_markets>
-      <available_markets>GB</available_markets>
-      <available_markets>GR</available_markets>
-      <available_markets>GT</available_markets>
-      <available_markets>HN</available_markets>
-      <available_markets>HU</available_markets>
-      <available_markets>IE</available_markets>
-      <available_markets>IS</available_markets>
-      <available_markets>IT</available_markets>
-      <available_markets>LI</available_markets>
-      <available_markets>LT</available_markets>
-      <available_markets>LU</available_markets>
-      <available_markets>LV</available_markets>
-      <available_markets>MC</available_markets>
-      <available_markets>MT</available_markets>
-      <available_markets>MX</available_markets>
-      <available_markets>NI</available_markets>
-      <available_markets>NL</available_markets>
-      <available_markets>NO</available_markets>
-      <available_markets>PA</available_markets>
-      <available_markets>PE</available_markets>
-      <available_markets>PL</available_markets>
-      <available_markets>PT</available_markets>
-      <available_markets>PY</available_markets>
-      <available_markets>SE</available_markets>
-      <available_markets>SK</available_markets>
-      <available_markets>SV</available_markets>
-      <available_markets>TR</available_markets>
-      <available_markets>UY</available_markets>
-      <available_markets>VN</available_markets>
       <external_urls>
-        <spotify>https://open.spotify.com/album/2NDfGFApzXItl4hNOj1M4k</spotify>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/albums/2NDfGFApzXItl4hNOj1M4k</href>
-      <id>2NDfGFApzXItl4hNOj1M4k</id>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
       <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/9605f7db9cd6d2c2f401a2d36db654c178a7b299</url>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
         <width>640</width>
       </images>
       <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/72a5b6eb12ef59be1efd56a5d949e038f59ff65f</url>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
         <width>300</width>
       </images>
       <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/d69e977fedd33c2f2a00f248328551298cb33672</url>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
         <width>64</width>
       </images>
-      <name>Junk</name>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
       <type>album</type>
-      <uri>spotify:album:2NDfGFApzXItl4hNOj1M4k</uri>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
     </album>
     <artists>
       <external_urls>
-        <spotify>https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz</spotify>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz</href>
-      <id>63MQldklfxkjYDoUE4Tppz</id>
-      <name>M83</name>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
       <type>artist</type>
-      <uri>spotify:artist:63MQldklfxkjYDoUE4Tppz</uri>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
     </artists>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/3vbKDsSS70ZX9D2OcvbZmS</href>
-      <id>3vbKDsSS70ZX9D2OcvbZmS</id>
-      <name>Beck</name>
-      <type>artist</type>
-      <uri>spotify:artist:3vbKDsSS70ZX9D2OcvbZmS</uri>
-    </artists>
-    <available_markets>AD</available_markets>
-    <available_markets>AR</available_markets>
-    <available_markets>AT</available_markets>
-    <available_markets>BE</available_markets>
-    <available_markets>BG</available_markets>
-    <available_markets>BO</available_markets>
-    <available_markets>BR</available_markets>
-    <available_markets>CH</available_markets>
-    <available_markets>CL</available_markets>
-    <available_markets>CO</available_markets>
-    <available_markets>CR</available_markets>
-    <available_markets>CY</available_markets>
-    <available_markets>CZ</available_markets>
-    <available_markets>DE</available_markets>
-    <available_markets>DK</available_markets>
-    <available_markets>DO</available_markets>
-    <available_markets>EC</available_markets>
-    <available_markets>EE</available_markets>
-    <available_markets>ES</available_markets>
-    <available_markets>FI</available_markets>
-    <available_markets>FR</available_markets>
-    <available_markets>GB</available_markets>
-    <available_markets>GR</available_markets>
-    <available_markets>GT</available_markets>
-    <available_markets>HN</available_markets>
-    <available_markets>HU</available_markets>
-    <available_markets>IE</available_markets>
-    <available_markets>IS</available_markets>
-    <available_markets>IT</available_markets>
-    <available_markets>LI</available_markets>
-    <available_markets>LT</available_markets>
-    <available_markets>LU</available_markets>
-    <available_markets>LV</available_markets>
-    <available_markets>MC</available_markets>
-    <available_markets>MT</available_markets>
-    <available_markets>MX</available_markets>
-    <available_markets>NI</available_markets>
-    <available_markets>NL</available_markets>
-    <available_markets>NO</available_markets>
-    <available_markets>PA</available_markets>
-    <available_markets>PE</available_markets>
-    <available_markets>PL</available_markets>
-    <available_markets>PT</available_markets>
-    <available_markets>PY</available_markets>
-    <available_markets>SE</available_markets>
-    <available_markets>SK</available_markets>
-    <available_markets>SV</available_markets>
-    <available_markets>TR</available_markets>
-    <available_markets>UY</available_markets>
-    <available_markets>VN</available_markets>
-    <disc_number>1</disc_number>
-    <duration_ms>249346</duration_ms>
+    <disc_number>2</disc_number>
+    <duration_ms>181680</duration_ms>
     <explicit>false</explicit>
     <external_ids>
-      <isrc>GB55H1600013</isrc>
+      <isrc>GBALB0100001</isrc>
     </external_ids>
     <external_urls>
-      <spotify>https://open.spotify.com/track/7g9i1smaMTYyFzeZJ64Fvp</spotify>
+      <spotify>https://open.spotify.com/track/5E2vpmEUayTmtkX3K7Bw41</spotify>
     </external_urls>
-    <href>https://api.spotify.com/v1/tracks/7g9i1smaMTYyFzeZJ64Fvp</href>
-    <id>7g9i1smaMTYyFzeZJ64Fvp</id>
-    <name>Time Wind</name>
-    <popularity>38</popularity>
-    <preview_url>https://p.scdn.co/mp3-preview/0d3f52356d771ad13aa43dd174d35d4c81943008?cid=e2a7e6aca07d489c9d221dffe84491b2</preview_url>
-    <track_number>13</track_number>
-    <type>track</type>
-    <uri>spotify:track:7g9i1smaMTYyFzeZJ64Fvp</uri>
-  </track>
-  <added_at>2016-12-31T00:38:21Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
-  <is_local>false</is_local>
-  <track>
-    <album>
-      <album_type>single</album_type>
-      <artists>
-        <external_urls>
-          <spotify>https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ</spotify>
-        </external_urls>
-        <href>https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ</href>
-        <id>4LEiUm1SRbFMgfqnQTwUbQ</id>
-        <name>Bon Iver</name>
-        <type>artist</type>
-        <uri>spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ</uri>
-      </artists>
-      <available_markets>AD</available_markets>
-      <available_markets>AR</available_markets>
-      <available_markets>AT</available_markets>
-      <available_markets>AU</available_markets>
-      <available_markets>BE</available_markets>
-      <available_markets>BG</available_markets>
-      <available_markets>BO</available_markets>
-      <available_markets>BR</available_markets>
-      <available_markets>CA</available_markets>
-      <available_markets>CH</available_markets>
-      <available_markets>CL</available_markets>
-      <available_markets>CO</available_markets>
-      <available_markets>CR</available_markets>
-      <available_markets>CY</available_markets>
-      <available_markets>CZ</available_markets>
-      <available_markets>DE</available_markets>
-      <available_markets>DK</available_markets>
-      <available_markets>DO</available_markets>
-      <available_markets>EC</available_markets>
-      <available_markets>EE</available_markets>
-      <available_markets>ES</available_markets>
-      <available_markets>FI</available_markets>
-      <available_markets>FR</available_markets>
-      <available_markets>GB</available_markets>
-      <available_markets>GR</available_markets>
-      <available_markets>GT</available_markets>
-      <available_markets>HK</available_markets>
-      <available_markets>HN</available_markets>
-      <available_markets>HU</available_markets>
-      <available_markets>ID</available_markets>
-      <available_markets>IE</available_markets>
-      <available_markets>IS</available_markets>
-      <available_markets>IT</available_markets>
-      <available_markets>LI</available_markets>
-      <available_markets>LT</available_markets>
-      <available_markets>LU</available_markets>
-      <available_markets>LV</available_markets>
-      <available_markets>MC</available_markets>
-      <available_markets>MT</available_markets>
-      <available_markets>MX</available_markets>
-      <available_markets>MY</available_markets>
-      <available_markets>NI</available_markets>
-      <available_markets>NL</available_markets>
-      <available_markets>NO</available_markets>
-      <available_markets>NZ</available_markets>
-      <available_markets>PA</available_markets>
-      <available_markets>PE</available_markets>
-      <available_markets>PH</available_markets>
-      <available_markets>PL</available_markets>
-      <available_markets>PT</available_markets>
-      <available_markets>PY</available_markets>
-      <available_markets>SE</available_markets>
-      <available_markets>SG</available_markets>
-      <available_markets>SK</available_markets>
-      <available_markets>SV</available_markets>
-      <available_markets>TH</available_markets>
-      <available_markets>TR</available_markets>
-      <available_markets>TW</available_markets>
-      <available_markets>US</available_markets>
-      <available_markets>UY</available_markets>
-      <available_markets>VN</available_markets>
-      <external_urls>
-        <spotify>https://open.spotify.com/album/358KWP6KjgXI9JbViBTzqT</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/albums/358KWP6KjgXI9JbViBTzqT</href>
-      <id>358KWP6KjgXI9JbViBTzqT</id>
-      <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/3a3fc1256e0b30ebedd13dee5d3071744163cd63</url>
-        <width>640</width>
-      </images>
-      <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/52abd9c07908386d56681b87a3c22b54bc904ed6</url>
-        <width>300</width>
-      </images>
-      <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/ddf6cf4e4e4306f371bd24814bb2400e9343851c</url>
-        <width>64</width>
-      </images>
-      <name>33 “GOD”</name>
-      <type>album</type>
-      <uri>spotify:album:358KWP6KjgXI9JbViBTzqT</uri>
-    </album>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/4LEiUm1SRbFMgfqnQTwUbQ</href>
-      <id>4LEiUm1SRbFMgfqnQTwUbQ</id>
-      <name>Bon Iver</name>
-      <type>artist</type>
-      <uri>spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ</uri>
-    </artists>
-    <available_markets>AD</available_markets>
-    <available_markets>AR</available_markets>
-    <available_markets>AT</available_markets>
-    <available_markets>AU</available_markets>
-    <available_markets>BE</available_markets>
-    <available_markets>BG</available_markets>
-    <available_markets>BO</available_markets>
-    <available_markets>BR</available_markets>
-    <available_markets>CA</available_markets>
-    <available_markets>CH</available_markets>
-    <available_markets>CL</available_markets>
-    <available_markets>CO</available_markets>
-    <available_markets>CR</available_markets>
-    <available_markets>CY</available_markets>
-    <available_markets>CZ</available_markets>
-    <available_markets>DE</available_markets>
-    <available_markets>DK</available_markets>
-    <available_markets>DO</available_markets>
-    <available_markets>EC</available_markets>
-    <available_markets>EE</available_markets>
-    <available_markets>ES</available_markets>
-    <available_markets>FI</available_markets>
-    <available_markets>FR</available_markets>
-    <available_markets>GB</available_markets>
-    <available_markets>GR</available_markets>
-    <available_markets>GT</available_markets>
-    <available_markets>HK</available_markets>
-    <available_markets>HN</available_markets>
-    <available_markets>HU</available_markets>
-    <available_markets>ID</available_markets>
-    <available_markets>IE</available_markets>
-    <available_markets>IS</available_markets>
-    <available_markets>IT</available_markets>
-    <available_markets>LI</available_markets>
-    <available_markets>LT</available_markets>
-    <available_markets>LU</available_markets>
-    <available_markets>LV</available_markets>
-    <available_markets>MC</available_markets>
-    <available_markets>MT</available_markets>
-    <available_markets>MX</available_markets>
-    <available_markets>MY</available_markets>
-    <available_markets>NI</available_markets>
-    <available_markets>NL</available_markets>
-    <available_markets>NO</available_markets>
-    <available_markets>NZ</available_markets>
-    <available_markets>PA</available_markets>
-    <available_markets>PE</available_markets>
-    <available_markets>PH</available_markets>
-    <available_markets>PL</available_markets>
-    <available_markets>PT</available_markets>
-    <available_markets>PY</available_markets>
-    <available_markets>SE</available_markets>
-    <available_markets>SG</available_markets>
-    <available_markets>SK</available_markets>
-    <available_markets>SV</available_markets>
-    <available_markets>TH</available_markets>
-    <available_markets>TR</available_markets>
-    <available_markets>TW</available_markets>
-    <available_markets>US</available_markets>
-    <available_markets>UY</available_markets>
-    <available_markets>VN</available_markets>
-    <disc_number>1</disc_number>
-    <duration_ms>213000</duration_ms>
-    <explicit>false</explicit>
-    <external_ids>
-      <isrc>US38Y1630004</isrc>
-    </external_ids>
-    <external_urls>
-      <spotify>https://open.spotify.com/track/1gil9V4XyCurI6DIwN0xrM</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/tracks/1gil9V4XyCurI6DIwN0xrM</href>
-    <id>1gil9V4XyCurI6DIwN0xrM</id>
-    <name>33 “GOD”</name>
-    <popularity>58</popularity>
-    <preview_url>https://p.scdn.co/mp3-preview/67b51d90ffddd6bb3f095059997021b589845f81?cid=e2a7e6aca07d489c9d221dffe84491b2</preview_url>
-    <track_number>1</track_number>
-    <type>track</type>
-    <uri>spotify:track:1gil9V4XyCurI6DIwN0xrM</uri>
-  </track>
-  <added_at>2016-12-31T00:38:29Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
-  <is_local>false</is_local>
-  <track>
-    <album>
-      <album_type>single</album_type>
-      <artists>
-        <external_urls>
-          <spotify>https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy</spotify>
-        </external_urls>
-        <href>https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy</href>
-        <id>3iOvXCl6edW5Um0fXEBRXy</id>
-        <name>The xx</name>
-        <type>artist</type>
-        <uri>spotify:artist:3iOvXCl6edW5Um0fXEBRXy</uri>
-      </artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/album/0xhcc6Lp1uTV4mokv50GXf</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/albums/0xhcc6Lp1uTV4mokv50GXf</href>
-      <id>0xhcc6Lp1uTV4mokv50GXf</id>
-      <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/328d3fb5348a28e14d17e2a9d28223c349b1bea0</url>
-        <width>640</width>
-      </images>
-      <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/28156022bee5892bc38d1e6eb64eb647b0574998</url>
-        <width>300</width>
-      </images>
-      <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/60d2edc883f6061a6e3c29d50f127f3ac7541fe2</url>
-        <width>64</width>
-      </images>
-      <name>On Hold</name>
-      <type>album</type>
-      <uri>spotify:album:0xhcc6Lp1uTV4mokv50GXf</uri>
-    </album>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy</href>
-      <id>3iOvXCl6edW5Um0fXEBRXy</id>
-      <name>The xx</name>
-      <type>artist</type>
-      <uri>spotify:artist:3iOvXCl6edW5Um0fXEBRXy</uri>
-    </artists>
-    <disc_number>1</disc_number>
-    <duration_ms>224133</duration_ms>
-    <explicit>false</explicit>
-    <external_ids>
-      <isrc>UK7MC1600065</isrc>
-    </external_ids>
-    <external_urls>
-      <spotify>https://open.spotify.com/track/4w2iAP3X4FkpPb5kjRdIDx</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/tracks/4w2iAP3X4FkpPb5kjRdIDx</href>
-    <id>4w2iAP3X4FkpPb5kjRdIDx</id>
-    <name>On Hold</name>
-    <popularity>22</popularity>
+    <href>https://api.spotify.com/v1/tracks/5E2vpmEUayTmtkX3K7Bw41</href>
+    <id>5E2vpmEUayTmtkX3K7Bw41</id>
+    <name>Boy's Don't Cry - Acoustic Version</name>
+    <popularity>0</popularity>
     <preview_url/>
     <track_number>1</track_number>
     <type>track</type>
-    <uri>spotify:track:4w2iAP3X4FkpPb5kjRdIDx</uri>
+    <uri>spotify:track:5E2vpmEUayTmtkX3K7Bw41</uri>
   </track>
-  <added_at>2016-12-31T00:38:36Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
   <is_local>false</is_local>
   <track>
     <album>
-      <album_type>single</album_type>
+      <album_type>compilation</album_type>
       <artists>
         <external_urls>
-          <spotify>https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w</spotify>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
         </external_urls>
-        <href>https://api.spotify.com/v1/artists/3CjlHNtplJyTf9npxaPl5w</href>
-        <id>3CjlHNtplJyTf9npxaPl5w</id>
-        <name>CHVRCHES</name>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
         <type>artist</type>
-        <uri>spotify:artist:3CjlHNtplJyTf9npxaPl5w</uri>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
       </artists>
       <external_urls>
-        <spotify>https://open.spotify.com/album/1hxpGnu956MrYefbs7EHI9</spotify>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/albums/1hxpGnu956MrYefbs7EHI9</href>
-      <id>1hxpGnu956MrYefbs7EHI9</id>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
       <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/2c264a182d7904c155e0a604fda30291647794f1</url>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
         <width>640</width>
       </images>
       <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/9e605bc872e242bd0c10fb40a8df3197bc166065</url>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
         <width>300</width>
       </images>
       <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/bb2d458995030ec1c31ddb0e58df73b6831618d4</url>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
         <width>64</width>
       </images>
-      <name>Warning Call (Theme from Mirror’s Edge Catalyst)</name>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
       <type>album</type>
-      <uri>spotify:album:1hxpGnu956MrYefbs7EHI9</uri>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
     </album>
     <artists>
       <external_urls>
-        <spotify>https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w</spotify>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/artists/3CjlHNtplJyTf9npxaPl5w</href>
-      <id>3CjlHNtplJyTf9npxaPl5w</id>
-      <name>CHVRCHES</name>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
       <type>artist</type>
-      <uri>spotify:artist:3CjlHNtplJyTf9npxaPl5w</uri>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
     </artists>
-    <disc_number>1</disc_number>
-    <duration_ms>272146</duration_ms>
+    <disc_number>2</disc_number>
+    <duration_ms>290053</duration_ms>
     <explicit>false</explicit>
     <external_ids>
-      <isrc>CAN111600075</isrc>
+      <isrc>GBALB0100002</isrc>
     </external_ids>
     <external_urls>
-      <spotify>https://open.spotify.com/track/46C9o6B27XyZIzzPnzki3V</spotify>
+      <spotify>https://open.spotify.com/track/4MYmUiV8EOOnqsk4KkvOXa</spotify>
     </external_urls>
-    <href>https://api.spotify.com/v1/tracks/46C9o6B27XyZIzzPnzki3V</href>
-    <id>46C9o6B27XyZIzzPnzki3V</id>
-    <name>Warning Call</name>
-    <popularity>7</popularity>
-    <preview_url/>
-    <track_number>1</track_number>
-    <type>track</type>
-    <uri>spotify:track:46C9o6B27XyZIzzPnzki3V</uri>
-  </track>
-  <added_at>2016-12-31T00:38:44Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
-  <is_local>false</is_local>
-  <track>
-    <album>
-      <album_type>album</album_type>
-      <artists>
-        <external_urls>
-          <spotify>https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz</spotify>
-        </external_urls>
-        <href>https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz</href>
-        <id>63MQldklfxkjYDoUE4Tppz</id>
-        <name>M83</name>
-        <type>artist</type>
-        <uri>spotify:artist:63MQldklfxkjYDoUE4Tppz</uri>
-      </artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/album/7CfdecqjyHMjKjPVi5HwX7</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/albums/7CfdecqjyHMjKjPVi5HwX7</href>
-      <id>7CfdecqjyHMjKjPVi5HwX7</id>
-      <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/371b9b4e55fb51fd16c9911b5d45a0015f0cafa8</url>
-        <width>640</width>
-      </images>
-      <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/1357072e84c02534d5e1cd2471e4cd53b406b882</url>
-        <width>300</width>
-      </images>
-      <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/7a677907da07c4dd85d137ba702fe45d4bd90cad</url>
-        <width>64</width>
-      </images>
-      <name>Junk</name>
-      <type>album</type>
-      <uri>spotify:album:7CfdecqjyHMjKjPVi5HwX7</uri>
-    </album>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz</href>
-      <id>63MQldklfxkjYDoUE4Tppz</id>
-      <name>M83</name>
-      <type>artist</type>
-      <uri>spotify:artist:63MQldklfxkjYDoUE4Tppz</uri>
-    </artists>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/4qCKUiCnxl18wGx7Bvk5fD</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/4qCKUiCnxl18wGx7Bvk5fD</href>
-      <id>4qCKUiCnxl18wGx7Bvk5fD</id>
-      <name>MAI LAN</name>
-      <type>artist</type>
-      <uri>spotify:artist:4qCKUiCnxl18wGx7Bvk5fD</uri>
-    </artists>
-    <disc_number>1</disc_number>
-    <duration_ms>235733</duration_ms>
-    <explicit>false</explicit>
-    <external_ids>
-      <isrc>GB55H1600002</isrc>
-    </external_ids>
-    <external_urls>
-      <spotify>https://open.spotify.com/track/3rRDYRLMWguwxotkC9AtTX</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/tracks/3rRDYRLMWguwxotkC9AtTX</href>
-    <id>3rRDYRLMWguwxotkC9AtTX</id>
-    <name>Go!</name>
-    <popularity>5</popularity>
+    <href>https://api.spotify.com/v1/tracks/4MYmUiV8EOOnqsk4KkvOXa</href>
+    <id>4MYmUiV8EOOnqsk4KkvOXa</id>
+    <name>A Forest - Acoustic Version</name>
+    <popularity>0</popularity>
     <preview_url/>
     <track_number>2</track_number>
     <type>track</type>
-    <uri>spotify:track:3rRDYRLMWguwxotkC9AtTX</uri>
+    <uri>spotify:track:4MYmUiV8EOOnqsk4KkvOXa</uri>
   </track>
-  <added_at>2016-12-31T00:38:53Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
   <is_local>false</is_local>
   <track>
     <album>
-      <album_type>single</album_type>
+      <album_type>compilation</album_type>
       <artists>
         <external_urls>
-          <spotify>https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq</spotify>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
         </external_urls>
-        <href>https://api.spotify.com/v1/artists/5iNrZmtVMtYev5M9yoWpEq</href>
-        <id>5iNrZmtVMtYev5M9yoWpEq</id>
-        <name>Seeb</name>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
         <type>artist</type>
-        <uri>spotify:artist:5iNrZmtVMtYev5M9yoWpEq</uri>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
       </artists>
-      <available_markets>AD</available_markets>
-      <available_markets>AR</available_markets>
-      <available_markets>AT</available_markets>
-      <available_markets>AU</available_markets>
-      <available_markets>BE</available_markets>
-      <available_markets>BG</available_markets>
-      <available_markets>BO</available_markets>
-      <available_markets>BR</available_markets>
-      <available_markets>CH</available_markets>
-      <available_markets>CL</available_markets>
-      <available_markets>CO</available_markets>
-      <available_markets>CR</available_markets>
-      <available_markets>CY</available_markets>
-      <available_markets>CZ</available_markets>
-      <available_markets>DE</available_markets>
-      <available_markets>DK</available_markets>
-      <available_markets>DO</available_markets>
-      <available_markets>EC</available_markets>
-      <available_markets>EE</available_markets>
-      <available_markets>ES</available_markets>
-      <available_markets>FI</available_markets>
-      <available_markets>FR</available_markets>
-      <available_markets>GB</available_markets>
-      <available_markets>GR</available_markets>
-      <available_markets>GT</available_markets>
-      <available_markets>HK</available_markets>
-      <available_markets>HN</available_markets>
-      <available_markets>HU</available_markets>
-      <available_markets>ID</available_markets>
-      <available_markets>IE</available_markets>
-      <available_markets>IS</available_markets>
-      <available_markets>IT</available_markets>
-      <available_markets>JP</available_markets>
-      <available_markets>LI</available_markets>
-      <available_markets>LT</available_markets>
-      <available_markets>LU</available_markets>
-      <available_markets>LV</available_markets>
-      <available_markets>MC</available_markets>
-      <available_markets>MT</available_markets>
-      <available_markets>MY</available_markets>
-      <available_markets>NI</available_markets>
-      <available_markets>NL</available_markets>
-      <available_markets>NO</available_markets>
-      <available_markets>NZ</available_markets>
-      <available_markets>PA</available_markets>
-      <available_markets>PE</available_markets>
-      <available_markets>PH</available_markets>
-      <available_markets>PL</available_markets>
-      <available_markets>PT</available_markets>
-      <available_markets>PY</available_markets>
-      <available_markets>SE</available_markets>
-      <available_markets>SG</available_markets>
-      <available_markets>SK</available_markets>
-      <available_markets>SV</available_markets>
-      <available_markets>TH</available_markets>
-      <available_markets>TR</available_markets>
-      <available_markets>TW</available_markets>
-      <available_markets>UY</available_markets>
-      <available_markets>VN</available_markets>
       <external_urls>
-        <spotify>https://open.spotify.com/album/2sc844GGOxxZXxbWmCEFcQ</spotify>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/albums/2sc844GGOxxZXxbWmCEFcQ</href>
-      <id>2sc844GGOxxZXxbWmCEFcQ</id>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
       <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/aa3f1fb33f95c4bfb3636a5e489704f3ce0c1893</url>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
         <width>640</width>
       </images>
       <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/3e695107185416056fe661f4e83e37a65abb0d7d</url>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
         <width>300</width>
       </images>
       <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/7df00081a20a1bf63f767b601d65b8b2b9390524</url>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
         <width>64</width>
       </images>
-      <name>Breathe (Remixes)</name>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
       <type>album</type>
-      <uri>spotify:album:2sc844GGOxxZXxbWmCEFcQ</uri>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
     </album>
     <artists>
       <external_urls>
-        <spotify>https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq</spotify>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/artists/5iNrZmtVMtYev5M9yoWpEq</href>
-      <id>5iNrZmtVMtYev5M9yoWpEq</id>
-      <name>Seeb</name>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
       <type>artist</type>
-      <uri>spotify:artist:5iNrZmtVMtYev5M9yoWpEq</uri>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
     </artists>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/4Ww02MqPOCYw0CufxePGkC</href>
-      <id>4Ww02MqPOCYw0CufxePGkC</id>
-      <name>Neev</name>
-      <type>artist</type>
-      <uri>spotify:artist:4Ww02MqPOCYw0CufxePGkC</uri>
-    </artists>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/10hGPIDZi33LRaYRIq3Bh4</href>
-      <id>10hGPIDZi33LRaYRIq3Bh4</id>
-      <name>Dimitri Vangelis &amp; Wyman</name>
-      <type>artist</type>
-      <uri>spotify:artist:10hGPIDZi33LRaYRIq3Bh4</uri>
-    </artists>
-    <available_markets>AD</available_markets>
-    <available_markets>AR</available_markets>
-    <available_markets>AT</available_markets>
-    <available_markets>AU</available_markets>
-    <available_markets>BE</available_markets>
-    <available_markets>BG</available_markets>
-    <available_markets>BO</available_markets>
-    <available_markets>BR</available_markets>
-    <available_markets>CH</available_markets>
-    <available_markets>CL</available_markets>
-    <available_markets>CO</available_markets>
-    <available_markets>CR</available_markets>
-    <available_markets>CY</available_markets>
-    <available_markets>CZ</available_markets>
-    <available_markets>DE</available_markets>
-    <available_markets>DK</available_markets>
-    <available_markets>DO</available_markets>
-    <available_markets>EC</available_markets>
-    <available_markets>EE</available_markets>
-    <available_markets>ES</available_markets>
-    <available_markets>FI</available_markets>
-    <available_markets>FR</available_markets>
-    <available_markets>GB</available_markets>
-    <available_markets>GR</available_markets>
-    <available_markets>GT</available_markets>
-    <available_markets>HK</available_markets>
-    <available_markets>HN</available_markets>
-    <available_markets>HU</available_markets>
-    <available_markets>ID</available_markets>
-    <available_markets>IE</available_markets>
-    <available_markets>IS</available_markets>
-    <available_markets>IT</available_markets>
-    <available_markets>JP</available_markets>
-    <available_markets>LI</available_markets>
-    <available_markets>LT</available_markets>
-    <available_markets>LU</available_markets>
-    <available_markets>LV</available_markets>
-    <available_markets>MC</available_markets>
-    <available_markets>MT</available_markets>
-    <available_markets>MY</available_markets>
-    <available_markets>NI</available_markets>
-    <available_markets>NL</available_markets>
-    <available_markets>NO</available_markets>
-    <available_markets>NZ</available_markets>
-    <available_markets>PA</available_markets>
-    <available_markets>PE</available_markets>
-    <available_markets>PH</available_markets>
-    <available_markets>PL</available_markets>
-    <available_markets>PT</available_markets>
-    <available_markets>PY</available_markets>
-    <available_markets>SE</available_markets>
-    <available_markets>SG</available_markets>
-    <available_markets>SK</available_markets>
-    <available_markets>SV</available_markets>
-    <available_markets>TH</available_markets>
-    <available_markets>TR</available_markets>
-    <available_markets>TW</available_markets>
-    <available_markets>UY</available_markets>
-    <available_markets>VN</available_markets>
-    <disc_number>1</disc_number>
-    <duration_ms>198948</duration_ms>
+    <disc_number>2</disc_number>
+    <duration_ms>213706</duration_ms>
     <explicit>false</explicit>
     <external_ids>
-      <isrc>NOUM71601818</isrc>
+      <isrc>GBALB0100003</isrc>
     </external_ids>
     <external_urls>
-      <spotify>https://open.spotify.com/track/3P4gOcROk0fb6hgq6qa3L2</spotify>
+      <spotify>https://open.spotify.com/track/1OZ64bLf5poB4g8m8GxoSw</spotify>
     </external_urls>
-    <href>https://api.spotify.com/v1/tracks/3P4gOcROk0fb6hgq6qa3L2</href>
-    <id>3P4gOcROk0fb6hgq6qa3L2</id>
-    <name>Breathe - Dimitri Vangelis &amp; Wyman Remix</name>
-    <popularity>42</popularity>
+    <href>https://api.spotify.com/v1/tracks/1OZ64bLf5poB4g8m8GxoSw</href>
+    <id>1OZ64bLf5poB4g8m8GxoSw</id>
+    <name>Let's Go To Bed - Acoustic Version</name>
+    <popularity>0</popularity>
     <preview_url/>
     <track_number>3</track_number>
     <type>track</type>
-    <uri>spotify:track:3P4gOcROk0fb6hgq6qa3L2</uri>
+    <uri>spotify:track:1OZ64bLf5poB4g8m8GxoSw</uri>
   </track>
-  <added_at>2016-12-31T00:39:01Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
   <is_local>false</is_local>
   <track>
     <album>
-      <album_type>single</album_type>
+      <album_type>compilation</album_type>
       <artists>
         <external_urls>
-          <spotify>https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb</spotify>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
         </external_urls>
-        <href>https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb</href>
-        <id>4Z8W4fKeB5YxbusRsdQVPb</id>
-        <name>Radiohead</name>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
         <type>artist</type>
-        <uri>spotify:artist:4Z8W4fKeB5YxbusRsdQVPb</uri>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
       </artists>
-      <available_markets>AD</available_markets>
-      <available_markets>AR</available_markets>
-      <available_markets>AT</available_markets>
-      <available_markets>AU</available_markets>
-      <available_markets>BE</available_markets>
-      <available_markets>BG</available_markets>
-      <available_markets>BO</available_markets>
-      <available_markets>BR</available_markets>
-      <available_markets>CA</available_markets>
-      <available_markets>CH</available_markets>
-      <available_markets>CL</available_markets>
-      <available_markets>CO</available_markets>
-      <available_markets>CR</available_markets>
-      <available_markets>CY</available_markets>
-      <available_markets>CZ</available_markets>
-      <available_markets>DE</available_markets>
-      <available_markets>DK</available_markets>
-      <available_markets>DO</available_markets>
-      <available_markets>EC</available_markets>
-      <available_markets>EE</available_markets>
-      <available_markets>ES</available_markets>
-      <available_markets>FI</available_markets>
-      <available_markets>FR</available_markets>
-      <available_markets>GB</available_markets>
-      <available_markets>GR</available_markets>
-      <available_markets>GT</available_markets>
-      <available_markets>HK</available_markets>
-      <available_markets>HN</available_markets>
-      <available_markets>HU</available_markets>
-      <available_markets>ID</available_markets>
-      <available_markets>IE</available_markets>
-      <available_markets>IS</available_markets>
-      <available_markets>IT</available_markets>
-      <available_markets>JP</available_markets>
-      <available_markets>LI</available_markets>
-      <available_markets>LT</available_markets>
-      <available_markets>LU</available_markets>
-      <available_markets>LV</available_markets>
-      <available_markets>MC</available_markets>
-      <available_markets>MT</available_markets>
-      <available_markets>MX</available_markets>
-      <available_markets>MY</available_markets>
-      <available_markets>NI</available_markets>
-      <available_markets>NL</available_markets>
-      <available_markets>NO</available_markets>
-      <available_markets>NZ</available_markets>
-      <available_markets>PA</available_markets>
-      <available_markets>PE</available_markets>
-      <available_markets>PH</available_markets>
-      <available_markets>PL</available_markets>
-      <available_markets>PT</available_markets>
-      <available_markets>PY</available_markets>
-      <available_markets>SE</available_markets>
-      <available_markets>SG</available_markets>
-      <available_markets>SK</available_markets>
-      <available_markets>SV</available_markets>
-      <available_markets>TH</available_markets>
-      <available_markets>TR</available_markets>
-      <available_markets>TW</available_markets>
-      <available_markets>US</available_markets>
-      <available_markets>UY</available_markets>
-      <available_markets>VN</available_markets>
       <external_urls>
-        <spotify>https://open.spotify.com/album/2DCzgO12HyMeGxoQlbtvQV</spotify>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/albums/2DCzgO12HyMeGxoQlbtvQV</href>
-      <id>2DCzgO12HyMeGxoQlbtvQV</id>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
       <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/fc67258a36d4631239593313bdd55a16be3885f6</url>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
         <width>640</width>
       </images>
       <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/0347525b6030078ef0b51197c68c0d49cbc8cfc6</url>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
         <width>300</width>
       </images>
       <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/d5e4b190bfc314a97bbbb1ef687e3ee08add5faa</url>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
         <width>64</width>
       </images>
-      <name>Burn the Witch</name>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
       <type>album</type>
-      <uri>spotify:album:2DCzgO12HyMeGxoQlbtvQV</uri>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
     </album>
     <artists>
       <external_urls>
-        <spotify>https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb</spotify>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb</href>
-      <id>4Z8W4fKeB5YxbusRsdQVPb</id>
-      <name>Radiohead</name>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
       <type>artist</type>
-      <uri>spotify:artist:4Z8W4fKeB5YxbusRsdQVPb</uri>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
     </artists>
-    <available_markets>AD</available_markets>
-    <available_markets>AR</available_markets>
-    <available_markets>AT</available_markets>
-    <available_markets>AU</available_markets>
-    <available_markets>BE</available_markets>
-    <available_markets>BG</available_markets>
-    <available_markets>BO</available_markets>
-    <available_markets>BR</available_markets>
-    <available_markets>CA</available_markets>
-    <available_markets>CH</available_markets>
-    <available_markets>CL</available_markets>
-    <available_markets>CO</available_markets>
-    <available_markets>CR</available_markets>
-    <available_markets>CY</available_markets>
-    <available_markets>CZ</available_markets>
-    <available_markets>DE</available_markets>
-    <available_markets>DK</available_markets>
-    <available_markets>DO</available_markets>
-    <available_markets>EC</available_markets>
-    <available_markets>EE</available_markets>
-    <available_markets>ES</available_markets>
-    <available_markets>FI</available_markets>
-    <available_markets>FR</available_markets>
-    <available_markets>GB</available_markets>
-    <available_markets>GR</available_markets>
-    <available_markets>GT</available_markets>
-    <available_markets>HK</available_markets>
-    <available_markets>HN</available_markets>
-    <available_markets>HU</available_markets>
-    <available_markets>ID</available_markets>
-    <available_markets>IE</available_markets>
-    <available_markets>IS</available_markets>
-    <available_markets>IT</available_markets>
-    <available_markets>JP</available_markets>
-    <available_markets>LI</available_markets>
-    <available_markets>LT</available_markets>
-    <available_markets>LU</available_markets>
-    <available_markets>LV</available_markets>
-    <available_markets>MC</available_markets>
-    <available_markets>MT</available_markets>
-    <available_markets>MX</available_markets>
-    <available_markets>MY</available_markets>
-    <available_markets>NI</available_markets>
-    <available_markets>NL</available_markets>
-    <available_markets>NO</available_markets>
-    <available_markets>NZ</available_markets>
-    <available_markets>PA</available_markets>
-    <available_markets>PE</available_markets>
-    <available_markets>PH</available_markets>
-    <available_markets>PL</available_markets>
-    <available_markets>PT</available_markets>
-    <available_markets>PY</available_markets>
-    <available_markets>SE</available_markets>
-    <available_markets>SG</available_markets>
-    <available_markets>SK</available_markets>
-    <available_markets>SV</available_markets>
-    <available_markets>TH</available_markets>
-    <available_markets>TR</available_markets>
-    <available_markets>TW</available_markets>
-    <available_markets>US</available_markets>
-    <available_markets>UY</available_markets>
-    <available_markets>VN</available_markets>
-    <disc_number>1</disc_number>
-    <duration_ms>220609</duration_ms>
+    <disc_number>2</disc_number>
+    <duration_ms>205728</duration_ms>
     <explicit>false</explicit>
     <external_ids>
-      <isrc>GBBKS1600071</isrc>
+      <isrc>GBALB0100004</isrc>
     </external_ids>
     <external_urls>
-      <spotify>https://open.spotify.com/track/3dAxzv7hkxipbuWJaOMzAl</spotify>
+      <spotify>https://open.spotify.com/track/0SeM9dyEdfk1m54qe5R9K2</spotify>
     </external_urls>
-    <href>https://api.spotify.com/v1/tracks/3dAxzv7hkxipbuWJaOMzAl</href>
-    <id>3dAxzv7hkxipbuWJaOMzAl</id>
-    <name>Burn the Witch</name>
-    <popularity>58</popularity>
-    <preview_url>https://p.scdn.co/mp3-preview/c5b0b198ee3f045960106e9957550e4610555d7d?cid=e2a7e6aca07d489c9d221dffe84491b2</preview_url>
-    <track_number>1</track_number>
-    <type>track</type>
-    <uri>spotify:track:3dAxzv7hkxipbuWJaOMzAl</uri>
-  </track>
-  <added_at>2016-12-31T00:39:18Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
-  <is_local>false</is_local>
-  <track>
-    <album>
-      <album_type>album</album_type>
-      <artists>
-        <external_urls>
-          <spotify>https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x</spotify>
-        </external_urls>
-        <href>https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x</href>
-        <id>5K4W6rqBFWDnAN6FQUkS6x</id>
-        <name>Kanye West</name>
-        <type>artist</type>
-        <uri>spotify:artist:5K4W6rqBFWDnAN6FQUkS6x</uri>
-      </artists>
-      <available_markets>AD</available_markets>
-      <available_markets>AR</available_markets>
-      <available_markets>AT</available_markets>
-      <available_markets>AU</available_markets>
-      <available_markets>BE</available_markets>
-      <available_markets>BG</available_markets>
-      <available_markets>BO</available_markets>
-      <available_markets>BR</available_markets>
-      <available_markets>CH</available_markets>
-      <available_markets>CL</available_markets>
-      <available_markets>CO</available_markets>
-      <available_markets>CR</available_markets>
-      <available_markets>CY</available_markets>
-      <available_markets>CZ</available_markets>
-      <available_markets>DE</available_markets>
-      <available_markets>DK</available_markets>
-      <available_markets>DO</available_markets>
-      <available_markets>EC</available_markets>
-      <available_markets>EE</available_markets>
-      <available_markets>ES</available_markets>
-      <available_markets>FI</available_markets>
-      <available_markets>FR</available_markets>
-      <available_markets>GB</available_markets>
-      <available_markets>GR</available_markets>
-      <available_markets>GT</available_markets>
-      <available_markets>HK</available_markets>
-      <available_markets>HN</available_markets>
-      <available_markets>HU</available_markets>
-      <available_markets>ID</available_markets>
-      <available_markets>IE</available_markets>
-      <available_markets>IS</available_markets>
-      <available_markets>IT</available_markets>
-      <available_markets>JP</available_markets>
-      <available_markets>LI</available_markets>
-      <available_markets>LT</available_markets>
-      <available_markets>LU</available_markets>
-      <available_markets>LV</available_markets>
-      <available_markets>MC</available_markets>
-      <available_markets>MT</available_markets>
-      <available_markets>MY</available_markets>
-      <available_markets>NI</available_markets>
-      <available_markets>NL</available_markets>
-      <available_markets>NO</available_markets>
-      <available_markets>NZ</available_markets>
-      <available_markets>PA</available_markets>
-      <available_markets>PE</available_markets>
-      <available_markets>PH</available_markets>
-      <available_markets>PL</available_markets>
-      <available_markets>PT</available_markets>
-      <available_markets>PY</available_markets>
-      <available_markets>SE</available_markets>
-      <available_markets>SG</available_markets>
-      <available_markets>SK</available_markets>
-      <available_markets>SV</available_markets>
-      <available_markets>TH</available_markets>
-      <available_markets>TR</available_markets>
-      <available_markets>TW</available_markets>
-      <available_markets>UY</available_markets>
-      <available_markets>VN</available_markets>
-      <external_urls>
-        <spotify>https://open.spotify.com/album/4xM1pUHZp9HsuKNxyOQDR0</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/albums/4xM1pUHZp9HsuKNxyOQDR0</href>
-      <id>4xM1pUHZp9HsuKNxyOQDR0</id>
-      <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/6c2a8de85c0ca1baf556401b9b672903d8f76954</url>
-        <width>640</width>
-      </images>
-      <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/cb68c3b2517700531ecf91728fb0897cff715d9b</url>
-        <width>300</width>
-      </images>
-      <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/61a990b59f8eaabc846b201defb0121bb92963eb</url>
-        <width>64</width>
-      </images>
-      <name>The Life Of Pablo</name>
-      <type>album</type>
-      <uri>spotify:album:4xM1pUHZp9HsuKNxyOQDR0</uri>
-    </album>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x</href>
-      <id>5K4W6rqBFWDnAN6FQUkS6x</id>
-      <name>Kanye West</name>
-      <type>artist</type>
-      <uri>spotify:artist:5K4W6rqBFWDnAN6FQUkS6x</uri>
-    </artists>
-    <available_markets>AD</available_markets>
-    <available_markets>AR</available_markets>
-    <available_markets>AT</available_markets>
-    <available_markets>AU</available_markets>
-    <available_markets>BE</available_markets>
-    <available_markets>BG</available_markets>
-    <available_markets>BO</available_markets>
-    <available_markets>BR</available_markets>
-    <available_markets>CH</available_markets>
-    <available_markets>CL</available_markets>
-    <available_markets>CO</available_markets>
-    <available_markets>CR</available_markets>
-    <available_markets>CY</available_markets>
-    <available_markets>CZ</available_markets>
-    <available_markets>DE</available_markets>
-    <available_markets>DK</available_markets>
-    <available_markets>DO</available_markets>
-    <available_markets>EC</available_markets>
-    <available_markets>EE</available_markets>
-    <available_markets>ES</available_markets>
-    <available_markets>FI</available_markets>
-    <available_markets>FR</available_markets>
-    <available_markets>GB</available_markets>
-    <available_markets>GR</available_markets>
-    <available_markets>GT</available_markets>
-    <available_markets>HK</available_markets>
-    <available_markets>HN</available_markets>
-    <available_markets>HU</available_markets>
-    <available_markets>ID</available_markets>
-    <available_markets>IE</available_markets>
-    <available_markets>IS</available_markets>
-    <available_markets>IT</available_markets>
-    <available_markets>JP</available_markets>
-    <available_markets>LI</available_markets>
-    <available_markets>LT</available_markets>
-    <available_markets>LU</available_markets>
-    <available_markets>LV</available_markets>
-    <available_markets>MC</available_markets>
-    <available_markets>MT</available_markets>
-    <available_markets>MY</available_markets>
-    <available_markets>NI</available_markets>
-    <available_markets>NL</available_markets>
-    <available_markets>NO</available_markets>
-    <available_markets>NZ</available_markets>
-    <available_markets>PA</available_markets>
-    <available_markets>PE</available_markets>
-    <available_markets>PH</available_markets>
-    <available_markets>PL</available_markets>
-    <available_markets>PT</available_markets>
-    <available_markets>PY</available_markets>
-    <available_markets>SE</available_markets>
-    <available_markets>SG</available_markets>
-    <available_markets>SK</available_markets>
-    <available_markets>SV</available_markets>
-    <available_markets>TH</available_markets>
-    <available_markets>TR</available_markets>
-    <available_markets>TW</available_markets>
-    <available_markets>UY</available_markets>
-    <available_markets>VN</available_markets>
-    <disc_number>1</disc_number>
-    <duration_ms>196040</duration_ms>
-    <explicit>true</explicit>
-    <external_ids>
-      <isrc>USUM71603020</isrc>
-    </external_ids>
-    <external_urls>
-      <spotify>https://open.spotify.com/track/3p6fkbeZDIVqapfdgQe6fm</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/tracks/3p6fkbeZDIVqapfdgQe6fm</href>
-    <id>3p6fkbeZDIVqapfdgQe6fm</id>
-    <name>Famous</name>
-    <popularity>74</popularity>
+    <href>https://api.spotify.com/v1/tracks/0SeM9dyEdfk1m54qe5R9K2</href>
+    <id>0SeM9dyEdfk1m54qe5R9K2</id>
+    <name>The Walk - Acoustic Version</name>
+    <popularity>0</popularity>
     <preview_url/>
     <track_number>4</track_number>
     <type>track</type>
-    <uri>spotify:track:3p6fkbeZDIVqapfdgQe6fm</uri>
+    <uri>spotify:track:0SeM9dyEdfk1m54qe5R9K2</uri>
   </track>
-  <added_at>2016-12-31T00:41:01Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
   <is_local>false</is_local>
   <track>
     <album>
-      <album_type>single</album_type>
+      <album_type>compilation</album_type>
       <artists>
         <external_urls>
-          <spotify>https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn</spotify>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
         </external_urls>
-        <href>https://api.spotify.com/v1/artists/1yoZuH2j43vVSWsOwYuQyn</href>
-        <id>1yoZuH2j43vVSWsOwYuQyn</id>
-        <name>Ilan Bluestone</name>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
         <type>artist</type>
-        <uri>spotify:artist:1yoZuH2j43vVSWsOwYuQyn</uri>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
       </artists>
-      <available_markets>AD</available_markets>
-      <available_markets>AR</available_markets>
-      <available_markets>AT</available_markets>
-      <available_markets>AU</available_markets>
-      <available_markets>BE</available_markets>
-      <available_markets>BG</available_markets>
-      <available_markets>BO</available_markets>
-      <available_markets>BR</available_markets>
-      <available_markets>CA</available_markets>
-      <available_markets>CH</available_markets>
-      <available_markets>CL</available_markets>
-      <available_markets>CO</available_markets>
-      <available_markets>CR</available_markets>
-      <available_markets>CY</available_markets>
-      <available_markets>CZ</available_markets>
-      <available_markets>DE</available_markets>
-      <available_markets>DK</available_markets>
-      <available_markets>DO</available_markets>
-      <available_markets>EC</available_markets>
-      <available_markets>EE</available_markets>
-      <available_markets>ES</available_markets>
-      <available_markets>FI</available_markets>
-      <available_markets>FR</available_markets>
-      <available_markets>GB</available_markets>
-      <available_markets>GR</available_markets>
-      <available_markets>GT</available_markets>
-      <available_markets>HK</available_markets>
-      <available_markets>HN</available_markets>
-      <available_markets>HU</available_markets>
-      <available_markets>ID</available_markets>
-      <available_markets>IE</available_markets>
-      <available_markets>IS</available_markets>
-      <available_markets>IT</available_markets>
-      <available_markets>JP</available_markets>
-      <available_markets>LI</available_markets>
-      <available_markets>LT</available_markets>
-      <available_markets>LU</available_markets>
-      <available_markets>LV</available_markets>
-      <available_markets>MC</available_markets>
-      <available_markets>MT</available_markets>
-      <available_markets>MX</available_markets>
-      <available_markets>MY</available_markets>
-      <available_markets>NI</available_markets>
-      <available_markets>NL</available_markets>
-      <available_markets>NO</available_markets>
-      <available_markets>NZ</available_markets>
-      <available_markets>PA</available_markets>
-      <available_markets>PE</available_markets>
-      <available_markets>PH</available_markets>
-      <available_markets>PL</available_markets>
-      <available_markets>PT</available_markets>
-      <available_markets>PY</available_markets>
-      <available_markets>SE</available_markets>
-      <available_markets>SG</available_markets>
-      <available_markets>SK</available_markets>
-      <available_markets>SV</available_markets>
-      <available_markets>TH</available_markets>
-      <available_markets>TR</available_markets>
-      <available_markets>TW</available_markets>
-      <available_markets>US</available_markets>
-      <available_markets>UY</available_markets>
-      <available_markets>VN</available_markets>
       <external_urls>
-        <spotify>https://open.spotify.com/album/7yQEdNKVrJ1Z0ZnGsDxvVx</spotify>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/albums/7yQEdNKVrJ1Z0ZnGsDxvVx</href>
-      <id>7yQEdNKVrJ1Z0ZnGsDxvVx</id>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
       <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/cef826d63b45e8b74acccf534559fd79574ff970</url>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
         <width>640</width>
       </images>
       <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/7f65e7b5703848ab890e86892c1a976905fbb91a</url>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
         <width>300</width>
       </images>
       <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/e665e5470c6179d687680928889ad462ef7bd7db</url>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
         <width>64</width>
       </images>
-      <name>Bigger Than Love</name>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
       <type>album</type>
-      <uri>spotify:album:7yQEdNKVrJ1Z0ZnGsDxvVx</uri>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
     </album>
     <artists>
       <external_urls>
-        <spotify>https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn</spotify>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
       </external_urls>
-      <href>https://api.spotify.com/v1/artists/1yoZuH2j43vVSWsOwYuQyn</href>
-      <id>1yoZuH2j43vVSWsOwYuQyn</id>
-      <name>Ilan Bluestone</name>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
       <type>artist</type>
-      <uri>spotify:artist:1yoZuH2j43vVSWsOwYuQyn</uri>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
     </artists>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/7lLugqe9n0Mxk1eUL6zXOY</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/7lLugqe9n0Mxk1eUL6zXOY</href>
-      <id>7lLugqe9n0Mxk1eUL6zXOY</id>
-      <name>Giuseppe De Luca</name>
-      <type>artist</type>
-      <uri>spotify:artist:7lLugqe9n0Mxk1eUL6zXOY</uri>
-    </artists>
-    <available_markets>AD</available_markets>
-    <available_markets>AR</available_markets>
-    <available_markets>AT</available_markets>
-    <available_markets>AU</available_markets>
-    <available_markets>BE</available_markets>
-    <available_markets>BG</available_markets>
-    <available_markets>BO</available_markets>
-    <available_markets>BR</available_markets>
-    <available_markets>CA</available_markets>
-    <available_markets>CH</available_markets>
-    <available_markets>CL</available_markets>
-    <available_markets>CO</available_markets>
-    <available_markets>CR</available_markets>
-    <available_markets>CY</available_markets>
-    <available_markets>CZ</available_markets>
-    <available_markets>DE</available_markets>
-    <available_markets>DK</available_markets>
-    <available_markets>DO</available_markets>
-    <available_markets>EC</available_markets>
-    <available_markets>EE</available_markets>
-    <available_markets>ES</available_markets>
-    <available_markets>FI</available_markets>
-    <available_markets>FR</available_markets>
-    <available_markets>GB</available_markets>
-    <available_markets>GR</available_markets>
-    <available_markets>GT</available_markets>
-    <available_markets>HK</available_markets>
-    <available_markets>HN</available_markets>
-    <available_markets>HU</available_markets>
-    <available_markets>ID</available_markets>
-    <available_markets>IE</available_markets>
-    <available_markets>IS</available_markets>
-    <available_markets>IT</available_markets>
-    <available_markets>JP</available_markets>
-    <available_markets>LI</available_markets>
-    <available_markets>LT</available_markets>
-    <available_markets>LU</available_markets>
-    <available_markets>LV</available_markets>
-    <available_markets>MC</available_markets>
-    <available_markets>MT</available_markets>
-    <available_markets>MX</available_markets>
-    <available_markets>MY</available_markets>
-    <available_markets>NI</available_markets>
-    <available_markets>NL</available_markets>
-    <available_markets>NO</available_markets>
-    <available_markets>NZ</available_markets>
-    <available_markets>PA</available_markets>
-    <available_markets>PE</available_markets>
-    <available_markets>PH</available_markets>
-    <available_markets>PL</available_markets>
-    <available_markets>PT</available_markets>
-    <available_markets>PY</available_markets>
-    <available_markets>SE</available_markets>
-    <available_markets>SG</available_markets>
-    <available_markets>SK</available_markets>
-    <available_markets>SV</available_markets>
-    <available_markets>TH</available_markets>
-    <available_markets>TR</available_markets>
-    <available_markets>TW</available_markets>
-    <available_markets>US</available_markets>
-    <available_markets>UY</available_markets>
-    <available_markets>VN</available_markets>
-    <disc_number>1</disc_number>
-    <duration_ms>245076</duration_ms>
+    <disc_number>2</disc_number>
+    <duration_ms>228320</duration_ms>
     <explicit>false</explicit>
     <external_ids>
-      <isrc>GBEWA1500838</isrc>
+      <isrc>GBALB0100005</isrc>
     </external_ids>
     <external_urls>
-      <spotify>https://open.spotify.com/track/2B2vjMTHkOlIZsq67fJPd9</spotify>
+      <spotify>https://open.spotify.com/track/7uztmRWxotCBd8SvPFYrvS</spotify>
     </external_urls>
-    <href>https://api.spotify.com/v1/tracks/2B2vjMTHkOlIZsq67fJPd9</href>
-    <id>2B2vjMTHkOlIZsq67fJPd9</id>
-    <name>Bigger Than Love - Radio Edit</name>
-    <popularity>41</popularity>
-    <preview_url>https://p.scdn.co/mp3-preview/d07a8558a12aac1a4125da4d33a37e74013e93dd?cid=e2a7e6aca07d489c9d221dffe84491b2</preview_url>
-    <track_number>1</track_number>
-    <type>track</type>
-    <uri>spotify:track:2B2vjMTHkOlIZsq67fJPd9</uri>
-  </track>
-  <added_at>2016-12-31T00:40:14Z</added_at>
-  <added_by>
-    <external_urls>
-      <spotify>http://open.spotify.com/user/csharplover</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/users/csharplover</href>
-    <id>csharplover</id>
-    <type>user</type>
-    <uri>spotify:user:csharplover</uri>
-  </added_by>
-  <is_local>false</is_local>
-  <track>
-    <album>
-      <album_type>single</album_type>
-      <artists>
-        <external_urls>
-          <spotify>https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam</spotify>
-        </external_urls>
-        <href>https://api.spotify.com/v1/artists/3dz0NnIZhtKKeXZxLOxCam</href>
-        <id>3dz0NnIZhtKKeXZxLOxCam</id>
-        <name>Porter Robinson</name>
-        <type>artist</type>
-        <uri>spotify:artist:3dz0NnIZhtKKeXZxLOxCam</uri>
-      </artists>
-      <artists>
-        <external_urls>
-          <spotify>https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc</spotify>
-        </external_urls>
-        <href>https://api.spotify.com/v1/artists/4pb4rqWSoGUgxm63xmJ8xc</href>
-        <id>4pb4rqWSoGUgxm63xmJ8xc</id>
-        <name>Madeon</name>
-        <type>artist</type>
-        <uri>spotify:artist:4pb4rqWSoGUgxm63xmJ8xc</uri>
-      </artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/album/1dSXaXQpdXuhORM0sx6ycc</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/albums/1dSXaXQpdXuhORM0sx6ycc</href>
-      <id>1dSXaXQpdXuhORM0sx6ycc</id>
-      <images>
-        <height>640</height>
-        <url>https://i.scdn.co/image/1b98186e3b3f2a87069e10aa3e9edd3c928ecbfa</url>
-        <width>640</width>
-      </images>
-      <images>
-        <height>300</height>
-        <url>https://i.scdn.co/image/77580c71da19842efd207f091625485203eaefb2</url>
-        <width>300</width>
-      </images>
-      <images>
-        <height>64</height>
-        <url>https://i.scdn.co/image/7676150afb7b1bc99eb4258c02c1704867a2f127</url>
-        <width>64</width>
-      </images>
-      <name>Shelter</name>
-      <type>album</type>
-      <uri>spotify:album:1dSXaXQpdXuhORM0sx6ycc</uri>
-    </album>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/3dz0NnIZhtKKeXZxLOxCam</href>
-      <id>3dz0NnIZhtKKeXZxLOxCam</id>
-      <name>Porter Robinson</name>
-      <type>artist</type>
-      <uri>spotify:artist:3dz0NnIZhtKKeXZxLOxCam</uri>
-    </artists>
-    <artists>
-      <external_urls>
-        <spotify>https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc</spotify>
-      </external_urls>
-      <href>https://api.spotify.com/v1/artists/4pb4rqWSoGUgxm63xmJ8xc</href>
-      <id>4pb4rqWSoGUgxm63xmJ8xc</id>
-      <name>Madeon</name>
-      <type>artist</type>
-      <uri>spotify:artist:4pb4rqWSoGUgxm63xmJ8xc</uri>
-    </artists>
-    <disc_number>1</disc_number>
-    <duration_ms>218964</duration_ms>
-    <explicit>false</explicit>
-    <external_ids>
-      <isrc>QMUY41600040</isrc>
-    </external_ids>
-    <external_urls>
-      <spotify>https://open.spotify.com/track/3ISYGHoYnu4gos6JNMfL4z</spotify>
-    </external_urls>
-    <href>https://api.spotify.com/v1/tracks/3ISYGHoYnu4gos6JNMfL4z</href>
-    <id>3ISYGHoYnu4gos6JNMfL4z</id>
-    <name>Shelter</name>
-    <popularity>19</popularity>
+    <href>https://api.spotify.com/v1/tracks/7uztmRWxotCBd8SvPFYrvS</href>
+    <id>7uztmRWxotCBd8SvPFYrvS</id>
+    <name>The Lovecats - Acoustic Version</name>
+    <popularity>0</popularity>
     <preview_url/>
-    <track_number>1</track_number>
+    <track_number>5</track_number>
     <type>track</type>
-    <uri>spotify:track:3ISYGHoYnu4gos6JNMfL4z</uri>
+    <uri>spotify:track:7uztmRWxotCBd8SvPFYrvS</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>181013</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100006</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/1xqoWC38NFgZGGsJFy4q6a</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/1xqoWC38NFgZGGsJFy4q6a</href>
+    <id>1xqoWC38NFgZGGsJFy4q6a</id>
+    <name>In Between Days - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>6</track_number>
+    <type>track</type>
+    <uri>spotify:track:1xqoWC38NFgZGGsJFy4q6a</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>222826</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100007</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/4BK3l32XFm1q3SrYt1sDVP</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/4BK3l32XFm1q3SrYt1sDVP</href>
+    <id>4BK3l32XFm1q3SrYt1sDVP</id>
+    <name>Close To Me - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>7</track_number>
+    <type>track</type>
+    <uri>spotify:track:4BK3l32XFm1q3SrYt1sDVP</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>208560</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100008</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/3EIUjKNIS7eRR29Cvx4hxH</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/3EIUjKNIS7eRR29Cvx4hxH</href>
+    <id>3EIUjKNIS7eRR29Cvx4hxH</id>
+    <name>Why Can't I Be You? - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>8</track_number>
+    <type>track</type>
+    <uri>spotify:track:3EIUjKNIS7eRR29Cvx4hxH</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>214813</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100009</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/4CVcv33VBslK3eW0fLaga8</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/4CVcv33VBslK3eW0fLaga8</href>
+    <id>4CVcv33VBslK3eW0fLaga8</id>
+    <name>Just Like Heaven - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>9</track_number>
+    <type>track</type>
+    <uri>spotify:track:4CVcv33VBslK3eW0fLaga8</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>251573</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100010</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/5keWCTF6kzXqaVbzHkGiL8</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/5keWCTF6kzXqaVbzHkGiL8</href>
+    <id>5keWCTF6kzXqaVbzHkGiL8</id>
+    <name>Lullaby - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>10</track_number>
+    <type>track</type>
+    <uri>spotify:track:5keWCTF6kzXqaVbzHkGiL8</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>208000</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100011</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/63o29bmUcL4HYqWtEn3QAm</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/63o29bmUcL4HYqWtEn3QAm</href>
+    <id>63o29bmUcL4HYqWtEn3QAm</id>
+    <name>Love Song - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>11</track_number>
+    <type>track</type>
+    <uri>spotify:track:63o29bmUcL4HYqWtEn3QAm</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>285266</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100012</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/4BoEittXqjTrlT3YzoW8Xb</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/4BoEittXqjTrlT3YzoW8Xb</href>
+    <id>4BoEittXqjTrlT3YzoW8Xb</id>
+    <name>Never Enough - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>12</track_number>
+    <type>track</type>
+    <uri>spotify:track:4BoEittXqjTrlT3YzoW8Xb</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>221000</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100013</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/6xNSTo2nI46D6DRk3NGlub</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/6xNSTo2nI46D6DRk3NGlub</href>
+    <id>6xNSTo2nI46D6DRk3NGlub</id>
+    <name>High - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>13</track_number>
+    <type>track</type>
+    <uri>spotify:track:6xNSTo2nI46D6DRk3NGlub</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>209640</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100014</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/1zveTAFDmAC57hxWEIab0q</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/1zveTAFDmAC57hxWEIab0q</href>
+    <id>1zveTAFDmAC57hxWEIab0q</id>
+    <name>Friday I'm In Love - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>14</track_number>
+    <type>track</type>
+    <uri>spotify:track:1zveTAFDmAC57hxWEIab0q</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>205653</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100015</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/19KtEPpjaR8wWUbhAb8rw9</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/19KtEPpjaR8wWUbhAb8rw9</href>
+    <id>19KtEPpjaR8wWUbhAb8rw9</id>
+    <name>Mint Car - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>15</track_number>
+    <type>track</type>
+    <uri>spotify:track:19KtEPpjaR8wWUbhAb8rw9</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>353106</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100016</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/5qr5DENNKrRPdyT20MPeds</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/5qr5DENNKrRPdyT20MPeds</href>
+    <id>5qr5DENNKrRPdyT20MPeds</id>
+    <name>Wrong Number - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>16</track_number>
+    <type>track</type>
+    <uri>spotify:track:5qr5DENNKrRPdyT20MPeds</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>250880</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100017</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/1wbhOnhBBV3FdxuSme1tEU</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/1wbhOnhBBV3FdxuSme1tEU</href>
+    <id>1wbhOnhBBV3FdxuSme1tEU</id>
+    <name>Cut Here - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>17</track_number>
+    <type>track</type>
+    <uri>spotify:track:1wbhOnhBBV3FdxuSme1tEU</uri>
+  </track>
+  <added_at>2010-06-21T08:35:14Z</added_at>
+  <added_by/>
+  <is_local>false</is_local>
+  <track>
+    <album>
+      <album_type>compilation</album_type>
+      <artists>
+        <external_urls>
+          <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+        </external_urls>
+        <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+        <id>7bu3H8JO7d0UbMoVzbo70s</id>
+        <name>The Cure</name>
+        <type>artist</type>
+        <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+      </artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/album/1jfdNZcakaEOi6AuEtJ7xL</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/albums/1jfdNZcakaEOi6AuEtJ7xL</href>
+      <id>1jfdNZcakaEOi6AuEtJ7xL</id>
+      <images>
+        <height>634</height>
+        <url>https://i.scdn.co/image/67e80a0ad124f4b9702a80542d5e411585edf470</url>
+        <width>640</width>
+      </images>
+      <images>
+        <height>297</height>
+        <url>https://i.scdn.co/image/c8eb6d9c344decb60357e72cd1a161c326a99396</url>
+        <width>300</width>
+      </images>
+      <images>
+        <height>63</height>
+        <url>https://i.scdn.co/image/d6f931e147669070d8b24deaecc48b0c035e5608</url>
+        <width>64</width>
+      </images>
+      <name>The Cure - Greatest Hits (Deluxe Sound &amp; Vision) PAL</name>
+      <type>album</type>
+      <uri>spotify:album:1jfdNZcakaEOi6AuEtJ7xL</uri>
+    </album>
+    <artists>
+      <external_urls>
+        <spotify>https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s</spotify>
+      </external_urls>
+      <href>https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s</href>
+      <id>7bu3H8JO7d0UbMoVzbo70s</id>
+      <name>The Cure</name>
+      <type>artist</type>
+      <uri>spotify:artist:7bu3H8JO7d0UbMoVzbo70s</uri>
+    </artists>
+    <disc_number>2</disc_number>
+    <duration_ms>209613</duration_ms>
+    <explicit>false</explicit>
+    <external_ids>
+      <isrc>GBALB0100018</isrc>
+    </external_ids>
+    <external_urls>
+      <spotify>https://open.spotify.com/track/1PxZycKfurq2Dptui6cjvU</spotify>
+    </external_urls>
+    <href>https://api.spotify.com/v1/tracks/1PxZycKfurq2Dptui6cjvU</href>
+    <id>1PxZycKfurq2Dptui6cjvU</id>
+    <name>Just Say Yes - Acoustic Version</name>
+    <popularity>0</popularity>
+    <preview_url/>
+    <track_number>18</track_number>
+    <type>track</type>
+    <uri>spotify:track:1PxZycKfurq2Dptui6cjvU</uri>
   </track>
 </root>

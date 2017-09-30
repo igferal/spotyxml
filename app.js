@@ -27,7 +27,7 @@ function loging() {
         json: true
     };
 
-    rl.question("Nombre de usuario ", function(answer) {
+    rl.question("Inserte su nombre de usuario: ", function(answer) {
 
         request.post(authOptions, function(error, response, body) {
 
@@ -79,7 +79,7 @@ function getPlaylists(user, token) {
 
         console.log(body);
 
-        if ((!error && response.statusCode === 200) || body.items.length <= 0) {
+        if ((!error && response.statusCode === 200) && body.items.length > 0) {
 
 
             var items = body.items;
@@ -102,7 +102,7 @@ function read(items, token, user) {
 
 
 
-    rl.question("Escoge una de las playlist (número)  ", function(answer) {
+    rl.question("Escoge una de las playlist (introduce el  número asociado) :", function(answer) {
 
 
         if (answer < 0 || answer > items.length || !isNumber(answer)) {
@@ -133,13 +133,21 @@ function getTracks(answer, items, token, user) {
     };
     request.get(tracks, function(error, response, body) {
 
-        var songs = body.items;
-        for (var i = 0; i < songs.length; i++) {
+        if (!error && response.statusCode === 200) {
 
-            console.log(songs[i].track.name);
+            console.log(body);
+            var songs = body.items;
+            for (var i = 0; i < songs.length; i++) {
+
+                console.log(songs[i].track.name);
+
+            }
+            parseXML(songs);
+        } else {
+            console.log("La playlist no puede ser exportada, pruebe con otra, por favor");
+            process.exit(1);
 
         }
-        parseXML(songs);
 
     });
 
