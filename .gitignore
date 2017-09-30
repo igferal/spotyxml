@@ -1,8 +1,8 @@
-spoty2xml/salida
-spoty2xml/node_modules
+spoty2xml/salida/*
+spoty2xml/node_modules/*
 
-xml2img/salida
-xml2img/node_modules
+xml2img/salida/*
+xml2img/node_modules/*
 
 
 # Logs

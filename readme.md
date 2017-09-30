@@ -1,18 +1,18 @@
-#Spoty2XML
+# Spoty2XML
 
 Dentro de la carpeta.
 
-$npm install
-$node app.js
+* $npm install
+* $node app.js
 
-#XML2IMG 
+# XML2IMG 
 
 Dentro de la carpeta.
 
-$npm install
-$node app.js yourfile.xml
+* $npm install
+* $node app.js yourfile.xml
 
-#Versions
+# Versions
 
-##Node 6.11.3
-##npm 3.10.10
+* Node 6.11.3
+* npm 3.10.10
