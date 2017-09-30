@@ -77,7 +77,6 @@ function getPlaylists(user, token) {
 
     request.get(playlists, function(error, response, body) {
 
-        console.log(body);
 
         if ((!error && response.statusCode === 200) && body.items.length > 0) {
 
@@ -135,13 +134,7 @@ function getTracks(answer, items, token, user) {
 
         if (!error && response.statusCode === 200) {
 
-            console.log(body);
             var songs = body.items;
-            for (var i = 0; i < songs.length; i++) {
-
-                console.log(songs[i].track.name);
-
-            }
             parseXML(songs);
         } else {
             console.log("La playlist no puede ser exportada, pruebe con otra, por favor");

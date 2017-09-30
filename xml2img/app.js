@@ -27,10 +27,8 @@ function parseXML() {
             for (var i = 0; i < tracks.length; i++) {
 
                 filename = denormalizeFileName(tracks[i].name);
-
                 url = tracks[i].album[0].images[0].url[0].replace("https", "http"); //request no soporta urls via https
                 writeFile(filename, url);
-
 
             }
 
@@ -40,10 +38,15 @@ function parseXML() {
     });
 }
 
+/**
+ * Se utiliza para evitar que el archivo lleve barras verticales que indiquen otra carpeta
+ * 
+ * @param {*} name 
+ */
 function denormalizeFileName(name) {
 
     var filename = name + "";
-    filename.replace("/\//g", "");
+    filename = filename.replace(/\//g, "");
     return filename;
 }
 
